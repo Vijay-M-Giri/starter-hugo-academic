@@ -27,10 +27,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MS in Computer Science
+    - course: M.S. in Computer Science
       institution: University of California, San Diego 
       year: 2023
-    - course: B.Eng.
+    - course: B.Eng. in Computer Science
       institution: Birla Institute of Technology and Science, Pilani
       year: 2018
 
@@ -74,4 +74,5 @@ highlight_name: true
 
 I am a second year Master's student in Computer Science department at the University of California, San Diego.
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+[comment]: # {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

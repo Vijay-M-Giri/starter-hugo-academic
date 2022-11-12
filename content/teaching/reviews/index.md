@@ -1,0 +1,15 @@
+---
+title: Anonymous feedback from students
+
+---
+
+### Teaching Assistant
+
+- Nice guy
+- Best TA I've ever had
+- Honestly such a great TA. He also had many office hours which I know helped many students
+- Amazing explanations and examples - thanks a lot!
+- He spends his time with you when you didn't understand something. If you needed additional understanding he would explain it in different ways. I never felt "stupid" when trying to learn from him, which makes me comfortable
+- He spends his time with you when you didn't understand something. If you needed additional understanding he would explain it in different ways. I never felt "stupid" when trying to learn from him, which makes me comfortable
+- visualization of concepts, patience
+- Good at explaining things.

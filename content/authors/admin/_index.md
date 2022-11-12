@@ -73,6 +73,3 @@ highlight_name: true
 ---
 
 I am a second year Master's student in Computer Science department at the University of California, San Diego.
-
-
-[comment]: # {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
